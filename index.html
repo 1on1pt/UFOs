@@ -35,7 +35,7 @@
         </div>
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <form class="bg-dark">
                         <p>Filter Search</p>
                         <ul class="list-group bg-dark">
@@ -43,13 +43,27 @@
                                 <label for="date">Enter Date</label>
                                 <input type="text" placeholder="1/10/2010" id="datetime" />
                             </li>
+                            <! -- Creating list elements city, state, country, and shape -->
                             <li class="list-group-item bg-dark">
-                                <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button>
+                                <label for="city">Enter City</label>
+                                <input type="text" placeholder="benton" id="city" />
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="state">Enter State</label>
+                                <input type="text" placeholder="ar" id="state" />
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="country">Enter Country</label>
+                                <input type="text" placeholder="us" id="country" />
+                            </li>
+                            <li class="list-group-item bg-dark">
+                                <label for="shape">Enter Shape</label>
+                                <input type="text" placeholder="circle" id="shape" />
                             </li>
                         </ul>
                     </form>
                 </div>
-                <div class="col-md-9">
+                <div class="col-md-10">
                     <table class="table table-striped">
                         <thead>
                             <tr>
