@@ -8,9 +8,7 @@ The purpose of this project is to:
 2. Create filters to make this table fully dynamic.
 3. Place the table into an HTML file for easy viewing.
 
-The benefit of a table that is *fully dynamic* is that it will react to user input.
-
-The webpage was customized using Bootstrap, CSS and HTML.
+The benefit of a table that is *fully dynamic* is that it will react to user input.  The webpage was customized using Bootstrap, CSS and HTML.
 
 Dana, who is a data journalist, developed a webpage with a dynamic table that provides information to answer the question: UFO Sightings: Fact or Fancy?  Her table is working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, she added table filters for:
 
