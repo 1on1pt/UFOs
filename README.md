@@ -6,7 +6,7 @@ The purpose of this project is to (1) build a table using data stored in a JavaS
 
 The webpage was customized using Bootstrap, CSS and HTML.
 
-Dana, who is a data journalist, developed a webpage and dynamic table that provides information to answer the question: UFO Sightings: Fact or Fancy?  Her table is working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, she added table filters for:
+Dana, who is a data journalist, developed a webpage with a dynamic table that provides information to answer the question: UFO Sightings: Fact or Fancy?  Her table is working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, she added table filters for:
 
   * City
   * State
