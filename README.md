@@ -5,28 +5,23 @@ Building dynamic webpages by using JavaScript, CSS, Bootstrap, basic HTML, and c
 
 
 ### Resources
-Websites:
-
-* https://spaceimages-mars.com
-
-
 Code:
 
-* Mission_to_Mars_Challenge.ipynb
-* Mission_to_Mars_Challenge.py
-* scraping.py
-* app.py
+* app.js
 * index.html
 
+Data:
+
+* data.js
 
 Software:
 
-* Python 3.7.11
-* Pandas 1.3.5
-* Jupyter Notebook
-* MongoDB
+* JavaScript
+* CSS
+* Bootstrap
+* HTML
+* Chrome Developer Tools
 * Visual Studio Code 1.65.1
-* Flask
 
 
 ## Results
