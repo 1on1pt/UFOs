@@ -1,5 +1,5 @@
 # UFOs
-Building dynamic webpages by using JavaScript, CSS, Bootstrap, basic HTML, and chrome developer tools.
+Building dynamic webpages by using JavaScript, CSS, Bootstrap, basic HTML, and Chrome developer tools.
 
 ## Overview of Project
 The purpose of this project is to:
