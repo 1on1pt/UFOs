@@ -49,6 +49,6 @@ As you travel through *cyberspace*, you will ultimately *land* on this *unfilter
 ![UFO_webpage_challenge](https://user-images.githubusercontent.com/94148420/157881647-799974b5-84b9-4c18-a0ac-9729c2e48c78.PNG)
 
 
-The unfiltered webpage allows you to scroll and browse through the entire database of UF sightings.
+The unfiltered webpage allows you to scroll and browse through the entire database of UFO sightings.
 
 ## Summary
