@@ -53,7 +53,7 @@ The unfiltered webpage allows you to scroll and browse through the database of U
 
 ![filter_search](https://user-images.githubusercontent.com/94148420/157994808-6a965ac9-3603-462c-830f-3a3ecafd1733.PNG)
 
-A visitor to the webpage may choose one or more filters by entering the in the appropriate format.  For example, date is entered in the 1/10/2010 format and city, state, country, and shape entries are entered with a small case first letter.  Typing "1/12/2010" into the date filter and hitting ENTER will give the following eight results:
+A visitor to the webpage may choose one or more filters by entering the information in the appropriate format.  For example, date is entered in the 1/10/2010 format and city, state, country, and shape entries are entered with a small case first letter.  Typing "1/12/2010" into the date filter and hitting ENTER will give the following eight results:
 
 ![date_1-2-2010_results](https://user-images.githubusercontent.com/94148420/157995357-fac15a86-7f0f-4958-8385-4c907f862a87.PNG)
 
