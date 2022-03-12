@@ -63,5 +63,10 @@ But this particular search could be further refined if there is only an interest
 ![date_1-2-2010_or_results](https://user-images.githubusercontent.com/94148420/157995841-a7aa032c-2925-4bd9-abc2-840f7316c313.PNG)
 
 
+To clear the entry for your next search, click on **UFO Sightings** in the upper left corner of the webpage:
+
+![UFO_sightings](https://user-images.githubusercontent.com/94148420/157996397-c027d02c-55ad-4846-94dd-4f1ab61d0aad.PNG)
+
+
 
 ## Summary
