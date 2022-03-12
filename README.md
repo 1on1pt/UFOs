@@ -53,9 +53,14 @@ The unfiltered webpage allows you to scroll and browse through the database of U
 
 ![filter_search](https://user-images.githubusercontent.com/94148420/157994808-6a965ac9-3603-462c-830f-3a3ecafd1733.PNG)
 
-A visitor to the webpage may choose one or more filters by entering the in the appropriate format.  For example, date is entered in the 1/10/2010 format and city, state, country, and shape entries are entered with a small case first letter.  Entering only "1/12/2010" into the date filter will give the following eight results:
+A visitor to the webpage may choose one or more filters by entering the in the appropriate format.  For example, date is entered in the 1/10/2010 format and city, state, country, and shape entries are entered with a small case first letter.  Typing "1/12/2010" into the date filter and hitting ENTER will give the following eight results:
 
 ![date_1-2-2010_results](https://user-images.githubusercontent.com/94148420/157995357-fac15a86-7f0f-4958-8385-4c907f862a87.PNG)
+
+
+But this particular search could be further refined if there is only an interest in UFO sightings in the State of Oregon on 1/12/2010.  In addition to typing in the date of 1/12/2020, **"or"** is entered in the Enter State filter followed by hitting the ENTER key for the following two results:
+
+![date_1-2-2010_or_results](https://user-images.githubusercontent.com/94148420/157995841-a7aa032c-2925-4bd9-abc2-840f7316c313.PNG)
 
 
 
